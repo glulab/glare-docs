@@ -1,2 +1,4 @@
-# glare-docs
-Glare Docs
+# GLARE DOCS
+
+# LICENSE
+[MIT License](LICENSE)
